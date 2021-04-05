@@ -14,4 +14,7 @@ This is a repo focused on exploratory analysis of a dataset (London bike rentals
 "isweekend" - boolean field - 1 if the day is weekend<br>
 "season" - category field meteorological seasons: 0-spring ; 1-summer; 2-fall; 3-winter.<br>
 "weather_code" category description:
+<br>
+<ul>
 1 = Clear ; mostly clear but have some values with haze/fog/patches of fog/ fog in vicinity 2 = scattered clouds / few clouds 3 = Broken clouds 4 = Cloudy 7 = Rain/ light Rain shower/ Light rain 10 = rain with thunderstorm 26 = snowfall 94 = Freezing Fog
+</ul>
