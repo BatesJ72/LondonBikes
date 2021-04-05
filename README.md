@@ -2,17 +2,17 @@
 
 This is a repo focused on exploratory analysis of a dataset (London bike rentals) and CRUD processes using Python, Pandas, and Numpy. 
 <br><br>
-## Metadata:<br>
-"timestamp" - timestamp field for grouping the data<br>
-"cnt" - the count of a new bike shares<br>
-"t1" - real temperature in C<br>
-"t2" - temperature in C "feels like"<br>
-"hum" - humidity in percentage<br>
-"windspeed" - wind speed in km/h<br>
-"weathercode" - category of the weather<br>
-"isholiday" - boolean field - 1 holiday / 0 non holiday<br>
-"isweekend" - boolean field - 1 if the day is weekend<br>
-"season" - category field meteorological seasons: <br>
+## Metadata: <br>
+"timestamp" - timestamp field for grouping the data <br>
+"cnt" - the count of a new bike shares <br>
+"t1" - real temperature in C <br>
+"t2" - temperature in C "feels like" <br>
+"hum" - humidity in percentage <br>
+"windspeed" - wind speed in km/h <br>
+"weathercode" - category of the weather <br>
+"isholiday" - boolean field - 1 holiday / 0 non holiday <br>
+"isweekend" - boolean field - 1 if the day is weekend <br>
+"season" - category field meteorological seasons:
 <ul>
   0-spring <br>
   1-summer <br>
@@ -21,7 +21,6 @@ This is a repo focused on exploratory analysis of a dataset (London bike rentals
   </ul>
   <br>
 "weather_code" category description:
-<br>
 <ul>
 1 = Clear ; mostly clear but have some values with haze/fog/patches of fog/ fog in vicinity <br>
   2 = scattered clouds / few clouds <br>
